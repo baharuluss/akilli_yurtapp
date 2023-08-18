@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "135662367284",
+    "project_id": "akilliyurtproject",
+    "storage_bucket": "akilliyurtproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135662367284:android:d35854021823ceabb85061",
+        "android_client_info": {
+          "package_name": "com.example.akilli_yurt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135662367284-r2gv4qf34hckkpvg9dk0ob6pulfo2v54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjWO7QoWAjfhndqUJkpnF3Y7h9A9WcmMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135662367284-r2gv4qf34hckkpvg9dk0ob6pulfo2v54.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "135662367284-nfga4ac2umgba51vch2er7djdmp9f6pv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.akilliYurt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
