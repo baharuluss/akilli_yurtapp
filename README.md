@@ -5,6 +5,7 @@
 ## Ürün İsmi
 
 --Akıllı Yurt--
+(Uygulama henüz tamamlanmamıştır.)
 
 ## Ürün Açıklaması
 
