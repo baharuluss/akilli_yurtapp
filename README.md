@@ -1,6 +1,6 @@
-# Gölhisar Akıllı Yurt
 
-# Ürün İle İlgili Bilgile
+
+# Ürün İle İlgili Bilgiler
 
 ## Ürün İsmi
 
