@@ -27,14 +27,10 @@ Haftalık Yemek Listesi: Yemekhane menülerini takip etmek artık daha kolay. Ak
 
 
 
-
-
-
-
-
-![image](https://github.com/Renanuya/F-42-bootcamp/assets/74377173/3b6b99aa-7bb5-46d8-a11b-9901beada227)
-
-
 - **Ürün Durumu**: Ekran görüntüleri:
+  
+
+![Ekran görüntüsü 2023-09-10 204724](https://github.com/baharuluss/akilli_yurtapp/assets/74377173/37cdb4d4-5980-4c20-a08b-8c81954c3183)
 
 
+![Ekran görüntüsü 2023-09-10 204802](https://github.com/baharuluss/akilli_yurtapp/assets/74377173/2d323b12-e9a4-467c-8428-1ff93e4bbe8e)
