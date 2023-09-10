@@ -27,7 +27,7 @@ Haftalık Yemek Listesi: Yemekhane menülerini takip etmek artık daha kolay. Ak
 
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
+## Ürün Durumu Ekran Görüntüleri
   
 
 ![Ekran görüntüsü 2023-09-10 204724](https://github.com/baharuluss/akilli_yurtapp/assets/74377173/37cdb4d4-5980-4c20-a08b-8c81954c3183)
