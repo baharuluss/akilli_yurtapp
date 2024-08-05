@@ -4,8 +4,7 @@
 
 ## Ürün İsmi
 
---Akıllı Yurt--
-(Uygulama henüz tamamlanmamıştır.)
+-Akıllı Yurt-
 
 ## Ürün Açıklaması
 
